@@ -1,0 +1,37 @@
+{
+  "id": "2280138",
+  "name": "阿迪达斯",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "633017",
+      "name": "我",
+      "font_class": "wode",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "3879477",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "5387481",
+      "name": "问号",
+      "font_class": "wenhao",
+      "unicode": "eae2",
+      "unicode_decimal": 60130
+    },
+    {
+      "icon_id": "11124973",
+      "name": "表单",
+      "font_class": "17",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    }
+  ]
+}
